@@ -6,8 +6,8 @@ body{
 	font-family: Arial,Helvetica,sans-serif;
 }
 #header{
-	margin-left: 100px;
-	margin-right: 110px;
+	margin-left: 49px;
+	margin-right: 59px;
 }
 .header-bg{
 	background-color:#262626;
@@ -18,7 +18,7 @@ body{
 .header-right{
 	color:#fff;
 	
-	margin-left:-65px;
+	margin-left:-95px;
 }
 .header-right h2,h4{
 	font-size: 40px;
